@@ -1,0 +1,14 @@
+{
+  "name": "fillinator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bitMap.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "AJ",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^21.2.1"
+  }
+}
